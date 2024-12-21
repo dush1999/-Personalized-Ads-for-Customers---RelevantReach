@@ -1,7 +1,8 @@
 # -Personalized-Ads-for-Customers---RelevantReach
+
+Due to confidentiality reasons, the underlying code and algorithm implemented in this project cannot be shared publicly. Please note that while the project description and high-level information are available, the detailed implementation and source code are not included in this repository.
  
 The main theme of this project was to generate advertisements in a more useful and efficient way, ensuring they are relatable to customers and not futile. This two-way benefit allows companies to better understand their customers' needs and save resources by delivering only relevant ads. 
-
 
 Data Prediction: We utilized S-ARIMA for time series forecasting to predict customer spending patterns, allowing us to tailor advertisements accordingly.
 
